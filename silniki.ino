@@ -176,7 +176,7 @@ void odbierz()
 void logika()
 {
   
-  //wywołanie odpowiednich funkcji sreturących silnikami
+  //wywołanie odpowiednich funkcji sterujących silnikami
         if(lp==true && lt==false )
         {
             lewoPrzod();
